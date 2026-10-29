@@ -5,12 +5,12 @@
   "name": "Create: Synthetic Diamonds",
   "description": "A Create mechanical press turns charcoal, coal or a coal block into a small, mutually exclusive chance of a diamond, or otherwise flint or gunpowder.",
   "authors": [
-    "Cube Algos"
+    "Kevin Scheeren"
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/synthetic-diamonds",
-    "sources": "https://github.com/cubealgos-mods/create_synthetic_diamonds",
-    "issues": "https://github.com/cubealgos-mods/create_synthetic_diamonds/issues"
+    "sources": "https://github.com/kevinscheeren-mods/create_synthetic_diamonds",
+    "issues": "https://github.com/kevinscheeren-mods/create_synthetic_diamonds/issues"
   },
   "license": "MIT",
   "environment": "*",
